@@ -4,7 +4,7 @@ My name is Dylan, and I am a University of Bristol trained Computer Scientist in
 
 - 🔭 I’m currently building a knowledge graph that models drug-disease relationships, connecting drugs, their targets and associated side effects.
 - 👯 I’m looking to collaborate on anything medical technology related!
-- 👯 My most current project is a Text Adventure Game where you explore locations by interacting with objects inside your terminal.
+- 🎮 My most current project is a Text Adventure Game where you explore locations by interacting with objects inside your terminal.
   - Check it out [here](https://github.com/dxlxnhxxe/Java---SimpleTextAdventureGame)
 
 
