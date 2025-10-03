@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-My name is Dylan, and I am a University of Bristol trained Computer Scientist interested in all things Object Oriented Programming!
+My name is Dylan, and I am a University of Bristol trained Computer Scientist interested in all things biology and medical!
 
 - 🔭 I’m currently building a knowledge graph that models drug-disease relationships, connecting drugs, their targets and associated side effects.
-- 🌱 I’m currently learning about Springboot.
-- 👯 I’m looking to collaborate on any Medical Technology related projects.
+- 👯 I’m looking to collaborate on anything medical technology related!
+- 👯 My most current project is a Text Adventure Game where you interact with objects from the world around you in your terminal. Check it out [here](https://github.com/dxlxnhxxe/Java---SimpleTextAdventureGame)
 
 
 <!--
