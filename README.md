@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+My name is Dylan, and I am a University of Bristol Computer Scientist interesting in all things Object Oriented Programming!
+
+- 🔭 I’m currently building a knowledge graph linking disease associated drugs, targets and side effects.
+- 🌱 I’m currently learning about Springboot.
+- 👯 I’m looking to collaborate on any Medical Technology related projects.
+
+
 <!--
 **dxlxnhxxe/dxlxnhxxe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
