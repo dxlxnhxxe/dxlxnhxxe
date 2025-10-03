@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-My name is Dylan, and I am a University of Bristol Computer Scientist interesting in all things Object Oriented Programming!
+My name is Dylan, and I am a University of Bristol trained Computer Scientist interested in all things Object Oriented Programming!
 
-- 🔭 I’m currently building a knowledge graph linking disease associated drugs, targets and side effects.
+- 🔭 I’m currently building a knowledge graph that models drug-disease relationships, connecting drugs, their targets and associated side effects.
 - 🌱 I’m currently learning about Springboot.
 - 👯 I’m looking to collaborate on any Medical Technology related projects.
 
