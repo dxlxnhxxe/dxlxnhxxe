@@ -8,10 +8,10 @@ My name is Dylan, and I am a University of Bristol trained Computer Scientist in
   - Contact me at dilancre8s@gmail.com
 
 ## I'm currently working on
-- ##[🕊️](https://github.com/EpitechMscProPromo2027/T-DEV-700-project-PAR_3) 
+- ## [🕊️](https://github.com/EpitechMscProPromo2027/T-DEV-700-project-PAR_3) 
 
 ## I'm learning
-##🇪🇸 🇨🇳 🇩🇪 🇸🇪
+## 🇪🇸🇨🇳🇩🇪🇸🇪
 
 <!--
 **dxlxnhxxe/dxlxnhxxe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
