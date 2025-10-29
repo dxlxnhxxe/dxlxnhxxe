@@ -11,7 +11,7 @@ My name is Dylan, and I am a University of Bristol trained Computer Scientist in
 - [🕊️](https://github.com/EpitechMscProPromo2027/T-DEV-700-project-PAR_3) 
 
 ## I'm learning
-<span style="font-size: 50px;">🇪🇸🇨🇳🇩🇪🇸🇪</span>
+<span style="font-size: 500px;">🇪🇸🇨🇳🇩🇪🇸🇪</span>
 
 <!--
 **dxlxnhxxe/dxlxnhxxe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
