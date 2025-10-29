@@ -10,7 +10,7 @@ My name is Dylan, and I am a University of Bristol trained Computer Scientist in
 ## [🕊️](https://github.com/EpitechMscProPromo2027/T-DEV-700-project-PAR_3) 
 
 ## I've contributed to
-## ![favicon](https://raw.githubusercontent.com/UoB-COMSM0166/2025-group-28/main/docs/assets/favicon.png)
+## <img src="https://raw.githubusercontent.com/UoB-COMSM0166/2025-group-28/main/docs/assets/favicon.png" width="80" alt="favicon">
 
 ## I'm learning 
 ## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ea-1f1f8.png?v8" width="80" /> <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e8-1f1f3.png?v8" width="80" /> <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e9-1f1ea.png?v8" width="80" /> <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f8-1f1ea.png?v8" width="80" />
