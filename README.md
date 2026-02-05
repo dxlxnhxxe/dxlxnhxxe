@@ -1,10 +1,10 @@
-# Hi there 👋
+# Hi
 
 My name is Dylan, and I am a University of Bristol trained Computer Scientist interested in all things biology and medical!
 
-- 🔭 I’m currently building an ITK Tumour Growth Tracker feature allowing radiologist to accelerate their workflow
-- 📚 My most up to date project is a [Text Adventure Game](https://github.com/dxlxnhxxe/Java---SimpleTextAdventureGame) where you explore locations by interacting with objects inside your terminal.
-- 👯 I’m looking to collaborate on anything medical technology related!
+- I’m currently building an ITK Tumour Growth Tracker feature allowing radiologist to accelerate their workflow
+- My most up to date project is a [Text Adventure Game](https://github.com/dxlxnhxxe/Java---SimpleTextAdventureGame) where you explore locations by interacting with objects inside your terminal.
+- I’m looking to collaborate on anything medical technology related!
 
 ## I'm currently working on
 ## [🕊️](https://github.com/EpitechMscProPromo2027/T-DEV-700-project-PAR_3) 
